@@ -1,5 +1,5 @@
 {
-  "name": "swa_test2",
+  "name": "my_awesome_project",
   "version": "0.1.0",
   "dependencies": {
     "postcss": "^8.2.13",
